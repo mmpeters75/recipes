@@ -1,0 +1,45 @@
+h1, h2, h3 {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+h4 {
+  text-align: center;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:link {
+  color: black;
+}
+
+a:visited {
+  color: black;
+}
+
+.solid {
+  border-style: solid;
+}
+
+.ingredient-list {
+  list-style-type: none;
+}
+
+.gray-box {
+  background-color: 	#E8E8E8;
+}
+
+.recipe-ul {
+  margin: 1rem 0rem;
+}
+
+.button-wrapper {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.button {
+  width: 20%;
+}
